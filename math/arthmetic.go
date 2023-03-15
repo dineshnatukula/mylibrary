@@ -1,4 +1,4 @@
-package mylibrary
+package math
 
 /*
 This function takes two integer params and return an addition of two integers as int

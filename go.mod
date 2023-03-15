@@ -1,3 +1,3 @@
-module github.com/dineshnatukula/mylibrary
+module mylibrary
 
 go 1.18
