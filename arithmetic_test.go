@@ -1,8 +1,9 @@
 package mylibrary_test
 
 import (
-	"mylibrary/math"
 	"testing"
+
+	math "github.com/dineshnatukula/mylibrary/math"
 )
 
 func TestAdd(t *testing.T) {
