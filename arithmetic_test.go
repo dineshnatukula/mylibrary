@@ -3,7 +3,7 @@ package mylibrary_test
 import (
 	"testing"
 
-	math "github.com/dineshnatukula/mylibrary/math"
+	math "github.com/dineshnatukula/mathlib/math"
 )
 
 func TestAdd(t *testing.T) {

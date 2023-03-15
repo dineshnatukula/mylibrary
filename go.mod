@@ -1,3 +1,3 @@
-module github.com/dineshnatukula/mylibrary
+module github.com/dineshnatukula/mathlib
 
 go 1.18
